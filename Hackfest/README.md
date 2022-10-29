@@ -56,7 +56,7 @@ If you need additional information about using templates you can [click here](ht
  Use git 'add .' to add the files modified
  - Then use 'git commit -m <comment>' to commit your changes.
  - Finally use 'git push <repo url>' to push your changes to Github.
- **CONGRATULATION ON CREATING YOU AUDIO APP** :tada:
+ **CONGRATULATION ON CREATING YOUR AUDIO APP** :tada:
 
  # LICENSE
- github.com/SCA_HackFest/LICENSE
+ [License](github.com/SCA_HackFest/LICENSE)
