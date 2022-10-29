@@ -30,7 +30,7 @@ If you need additional information about using templates you can [click here](ht
 
  ## Create a repository from WOM.fm Sandbox
  - Navigate to the WOM.fm Sandbox [here](https://oseqorg.github.io/WOM.fm-Sandbox/)]
- - Above the file list, click on 'Use this template' .
+ - Above the file list, click on **'Use this template'** .
  - Then proceed to creating a repository for the project.
 
  ## Clone the repository to your local computer 
@@ -38,9 +38,13 @@ If you need additional information about using templates you can [click here](ht
 - On Github, copy the URL of the new created repository from wom.fm Sandbox in your account by clicking on the copy icon beside the URL.
 - Clone to your computer by using the git commands in the text editor terminal in this format "git clone <repository url>"
 - Go to your text editor and navigate to the directory to start working.
+![image](https://user-images.githubusercontent.com/37791436/198752391-08898e02-cd70-4617-b79e-0135dacb4d78.png)
+
 
 ## Adding audio files and editing
- After successful cloning of the repository into your computer, there is already an existing structure that can be use to develop an audio web application for local organization to make vital knowledge and practical information accessible to marginalized populations.
+ After successful cloning of the repository into your computer, there is already an existing structure that can be use to develop an audio web application for local organization to make vital knowledge and practical information accessible to marginalized populations. The important folders are;
+ - Audio folder
+ - Audio.js
 
  ### The audio folder
   This is where the newly created audio will go. You can add your audio by following the the template to create your audio web application.
@@ -52,6 +56,7 @@ If you need additional information about using templates you can [click here](ht
  Use git 'add .' to add the files modified
  - Then use 'git commit -m <comment>' to commit your changes.
  - Finally use 'git push <repo url>' to push your changes to Github.
+ **CONGRATULATION ON CREATING YOU AUDIO APP** :tada:
 
  # LICENSE
  github.com/SCA_HackFest/LICENSE
