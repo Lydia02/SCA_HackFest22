@@ -26,7 +26,7 @@ You can check out the final website by clicking [here](https://hackfest2.netlify
 Debachanya Girl child Empowerment Initiative helps to identify the major problem faced by the marginalized communities in Minna, Niger State. The identified problems are increased rate of school dropout in Niger villages, violation of girl child's right, poverty, high rate of illitracy and many more. [Read more](https://link.medium.com/sbrDvUhUrub).
 
 # Solution
- Debachanya Girl Empowerment Initiative help to solve this problem by providing long term sustainable livelihood solutions through creating opportunities via skills training, provision of food,  provision of computer to adolescent girls to improve the quality of life and social dignity. [Read more](https://link.medium.com/JH1LmQ4Dtub). In addition, in order to reach the local vilages in Niger state, we lend our voices using three major languages(English, Hausa and Yoruba) to create more awareness on the effects of the major problem faced in the communities. [Click here](https://savenigerstate.netlify.app/). to listen.
+ Debachanya Girl Empowerment Initiative help to solve these problems by providing long term sustainable livelihood solutions through creating opportunities via skills training, provision of food,  provision of computer to adolescent girls to improve the quality of life and social dignity. [Read more](https://link.medium.com/JH1LmQ4Dtub). In addition, in order to reach the local vilages in Niger state, we lend our voices using three major languages(English, Hausa and Yoruba) to create more awareness on the effects of the major problem faced in the communities. [Click here](https://savenigerstate.netlify.app/). to listen.
 
  # Collaborators
  - Lydia Ojoawo: @Lydia02
