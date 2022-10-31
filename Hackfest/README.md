@@ -29,7 +29,7 @@ If you need additional information about using templates you can [click here](ht
  - Basic Knowledge of HTML, CSS and Javascript.
 
  ## Create a repository from WOM.fm Sandbox
- - Navigate to the WOM.fm Sandbox [here](https://oseqorg.github.io/WOM.fm-Sandbox/)]
+ - Navigate to the WOM.fm Sandbox [here](https://oseqorg.github.io/WOM.fm-Sandbox/)
  - Above the file list, click on **'Use this template'** .
  - Then proceed to creating a repository for the project.
 
