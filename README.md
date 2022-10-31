@@ -1,5 +1,12 @@
-# SCA_HackFest
+# SCA_HackFest22
 Open Source projects that provides solution to the challenges of illiteracy and access to digital skills or resources. 
+
+ ## Overview
+ - [Hackfest](https://github.com/Lydia02/SCA_HackFest22/tree/master/Hackfest): Contains the WOM.fm audio web application. Read the improved documentation via [README.md](https://github.com/Lydia02/SCA_HackFest22/blob/master/Hackfest/README.md).
+ - [frontend](https://github.com/Lydia02/SCA_HackFest22/tree/master/frontend): Contains the NGO website built by the team. Read the documentation via [README.md](https://github.com/Lydia02/SCA_HackFest22/blob/master/frontend/README.md)
+ - [NGO_poster](https://github.com/Lydia02/SCA_HackFest22/blob/master/Debachanya%20NGO%20Poster.png): The NGO poster
+ - [Figma_Design](https://github.com/Lydia02/SCA_HackFest22/blob/master/Figma%20Designs)
+
 
 # Introduction to Open Source
 Welcome aboard creative female developers. Open Source is a flourishing and beneficial ecosystem that publicly solves problems in communities and industries using software through a decentralized model and community contributions. Open Source allows users to adapt software to their personal needs and publish any modification for users with similar needs either on the original project or as another project. Open Source is about collaboration (people working with each other).
